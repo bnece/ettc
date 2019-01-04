@@ -5,9 +5,8 @@ A program másolja be a vektor elmeit a mátrixba. Először az oszlopokat tölt
 
 */
 #include <stdio.h>
-#include <string.h>
 #include <stdlib.h>
-#include <time.h>
+
 
 void beolvasas(int *tomb);
 void atoltes(int *tomb, int (*matrix)[5]);
